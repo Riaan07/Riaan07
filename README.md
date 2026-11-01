@@ -35,17 +35,17 @@ Development Tools & Practices
 - Software Testing & Debugging
 - Software Engineering & System Design
 
-**☁️ Cloud Technologies**
+Cloud Technologies
 - AWS Fundamentals
 - Microsoft Azure
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-**🎯 CareerSync AI — Intelligent CV & Job Matching Platform**
+### CareerSync AI — Intelligent CV & Job Matching Platform
 
-A web application developed as part of my Honours studies that evaluates how closely a candidate's CV aligns with a job description.
+**A web application developed as part of my Honours studies that evaluates how closely a candidate's CV aligns with a job description.**
 
 - Developed using **C#, ASP.NET MVC, JavaScript, Bootstrap, and Microsoft SQL Server**.
 - Implemented a matching algorithm to analyse skills, qualifications, and experience.
@@ -53,7 +53,7 @@ A web application developed as part of my Honours studies that evaluates how clo
 - Designed an interactive dashboard that provides personalised recommendations.
 - Integrated RESTful APIs and database operations.
 
-**🏦 Banking Application — Web & Android Integration**
+**Banking Application — Web & Android Integration**
 
 A banking application integrating web-based functionality with an Android mobile application.
 
@@ -64,45 +64,45 @@ A banking application integrating web-based functionality with an Android mobile
 
 ---
 
-### 🌱 Currently Learning & Growing
+### Currently Learning & Growing
 
-- ⚙️ Strengthening my **C# and .NET development** skills.
-- 🏗️ Exploring scalable backend architectures and software engineering best practices.
-- ☁️ Expanding my knowledge of cloud technologies and deployment.
-- 🧪 Improving my software testing, debugging, and code quality practices.
-- 🤝 Participating in collaborative development, knowledge sharing, and technical discussions.
-- 📚 Advancing my understanding of algorithms, data structures, and software design through my Honours studies.
+- Strengthening my **C# and .NET development** skills.
+- Exploring scalable backend architectures and software engineering best practices.
+- Expanding my knowledge of cloud technologies and deployment.
+- Improving my software testing, debugging, and code quality practices.
+- Participating in collaborative development, knowledge sharing, and technical discussions.
+- Advancing my understanding of algorithms, data structures, and software design through my Honours studies.
 
 ---
 
-### 🤝 Open to Collaboration & Opportunities
+### Open to Collaboration & Opportunities
 
 I'm always interested in connecting with developers, contributing to meaningful projects, and exchanging technical knowledge.
 
-I'm particularly interested in:
+### I'm particularly interested in:
 
-- 🌍 Open-source software development.
-- 💻 C# / .NET and backend development projects.
-- 🛠️ Full-stack web application development.
-- 👥 Collaborative projects involving code reviews, problem-solving, and knowledge sharing.
-- 🚀 Graduate and Junior Software Developer opportunities.
+- Open-source software development.
+- C# / .NET and backend development projects.
+- Full-stack web application development.
+- Collaborative projects involving code reviews, problem-solving, and knowledge sharing.
+- Graduate and Junior Software Developer opportunities.
 
-My goal is to contribute value to development teams while continuously growing as a software engineer through collaboration, hands-on experience, and mentorship.
+**My goal is to contribute value to development teams while continuously growing as a software engineer through collaboration, hands-on experience, and mentorship.**
 
 ---
 
 Let's Connect!
 
-Email: [sbahleriaandlamini@gmail.com](mailto:sbahleriaandlamini@gmail.com)
-LinkedIn: [Connect with me](https://www.linkedin.com/Sbahle)
-Portfolio: [View My Portfolio](https://riaan07.github.io/Portfolio/)
-GitHub: [@Riaan07](https://github.com/Riaan07)
+**Email:** [sbahleriaandlamini@gmail.com](mailto:sbahleriaandlamini@gmail.com)
+**LinkedIn:** [Connect with me](https://www.linkedin.com/Sbahle)
+**Portfolio:** [View My Portfolio](https://riaan07.github.io/Portfolio/)
+**GitHub:** [@Riaan07](https://github.com/Riaan07)
 
 ---
 
-Fun Fact:I enjoy breaking down complex programming concepts into simpler ideas and helping others develop their coding skills through tutoring, debugging sessions, and technical discussions.
+### Fun Fact:I enjoy breaking down complex programming concepts into simpler ideas and helping others develop their coding skills through tutoring, debugging sessions, and technical discussions.
 
-"Always learning, always building, and always growing through collaboration."
+**"Always learning, always building, and always growing through collaboration."**
 
 
 <!---
