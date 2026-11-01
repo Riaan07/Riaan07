@@ -1,34 +1,34 @@
-# 👋 Hi there, I'm Sbahle Riaan Dlamini (@Riaan07)
+Hi there, I'm Sbahle Riaan Dlamini (@Riaan07)
 
-### 💻 Software Developer | C# & .NET | Computer Science Honours Student
+Software Developer | C# & .NET | Computer Science Honours Student
 
-🎓 I'm a **BSc Computer Science and IT graduate** from the University of the Free State, currently pursuing my **Honours degree in Computer Science**.
+I'm a **BSc Computer Science and IT graduate** from the University of the Free State, currently pursuing my **Honours degree in Computer Science**.
 
-👨‍🏫 I'm currently working as a **C# Programming Intern** at the University of the Free State, where I assist first-year students with programming concepts, practical coding exercises, debugging, and problem-solving.
+I'm currently working as a **C# Programming Intern** at the University of the Free State, where I assist first-year students with programming concepts, practical coding exercises, debugging, and problem-solving.
 
-🚀 I'm passionate about **software engineering, backend development, full-stack applications, and building practical solutions to real-world problems**.
+I'm passionate about **software engineering, backend development, full-stack applications, and building practical solutions to real-world problems**.
 
-🤝 I actively engage and collaborate with fellow developers to exchange ideas, tackle technical challenges, share knowledge, and continuously improve my development skills. I value teamwork, constructive feedback, and learning from experienced developers as part of my professional growth.
+I actively engage and collaborate with fellow developers to exchange ideas, tackle technical challenges, share knowledge, and continuously improve my development skills. I value teamwork, constructive feedback, and learning from experienced developers as part of my professional growth.
 
 ---
 
-### 🛠️ Technical Skills & Technologies
+Technical Skills & Technologies
 
-**💻 Programming Languages**
+Programming Languages**
 - C#, Java, Python, JavaScript, TypeScript, SQL
 
-**🌐 Web & Backend Development**
+Web & Backend Development
 - ASP.NET MVC, RESTful APIs
 - HTML5, CSS3, Bootstrap
 - Angular
 - Object-Oriented Programming (OOP)
 
-**🗃️ Databases**
+Databases
 - Microsoft SQL Server
 - Relational Database Design
 - CRUD Operations
 
-**⚙️ Development Tools & Practices**
+Development Tools & Practices
 - Git & GitHub
 - Docker
 - API Integration
