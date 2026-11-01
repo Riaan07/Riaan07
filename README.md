@@ -1,6 +1,6 @@
-Hi there, I'm Sbahle Riaan Dlamini (@Riaan07)
+### Hi there, I'm Sbahle Riaan Dlamini (@Riaan07)
 
-Software Developer | C# & .NET | Computer Science Honours Student
+**Software Developer | C# & .NET | Computer Science Honours Student**
 
 I'm a **BSc Computer Science and IT graduate** from the University of the Free State, currently pursuing my **Honours degree in Computer Science**.
 
@@ -12,30 +12,30 @@ I actively engage and collaborate with fellow developers to exchange ideas, tack
 
 ---
 
-Technical Skills & Technologies
+### Technical Skills & Technologies
 
-Programming Languages**
+### Programming Languages**
 - C#, Java, Python, JavaScript, TypeScript, SQL
 
-Web & Backend Development
+### Web & Backend Development
 - ASP.NET MVC, RESTful APIs
 - HTML5, CSS3, Bootstrap
 - Angular
 - Object-Oriented Programming (OOP)
 
-Databases
+### Databases
 - Microsoft SQL Server
 - Relational Database Design
 - CRUD Operations
 
-Development Tools & Practices
+### Development Tools & Practices
 - Git & GitHub
 - Docker
 - API Integration
 - Software Testing & Debugging
 - Software Engineering & System Design
 
-Cloud Technologies
+### Cloud Technologies
 - AWS Fundamentals
 - Microsoft Azure
 
