@@ -15,7 +15,7 @@ I actively engage and collaborate with fellow developers to exchange ideas, tack
 ### Technical Skills & Technologies
 
 ### Programming Languages**
-- C#, Java, Python, JavaScript, TypeScript, SQL
+- C#, Java, Python, JavaScript, TypeScript, SQL, Kotlin
 
 ### Web & Backend Development
 - ASP.NET MVC, RESTful APIs
