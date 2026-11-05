@@ -43,7 +43,7 @@ I actively engage and collaborate with fellow developers to exchange ideas, tack
 
 ### Featured Projects
 
-### CareerSync AI — Intelligent CV & Job Matching Platform
+### CareerSync — Intelligent CV & Job Matching Platform
 
 **A web application developed as part of my Honours studies that evaluates how closely a candidate's CV aligns with a job description.**
 
